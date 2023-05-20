@@ -1,3 +1,37 @@
+# Online Workshop - "Next.js 13: What's Going On?"
+
+Demo code used on an online workshop conducted on the 20th May 2023 by Biztech Morocco, where we discussed the significant updates and enhancements introduced in Next.js 13.
+
+## 📼 Livestream
+
+You can find the recorded livestream [here](https://www.youtube.com/live/s4sdXK4ApKM?feature=share) in Moroccan Darija 🇲🇦.
+
+## 📄 Slides
+
+You can find the slides [here](https://docs.google.com/presentation/d/1fQrKxUaWN14whNxxydmua8DRrhW8etvz4cf_1CuX4EY/edit?usp=sharing).
+
+## 📌 Key Topics Discussed
+
+* App Directory: The new file-system based configuration system. We examined how the new App directory compared to previous versions (pages directry).
+
+* Routing: Discussed the changes and enhancements to routing with Next.js 13, including static routing, dynamic routing, route groups, and catch-all routes.
+
+* Server Components: A deep dive into how Server Components are implemented by default in Next.js 13 and how they can deliver a better user experience while maintaining optimum performance, also comparing them with Client Components.
+
+* Loading & Errors: How Next.js 13 has improved the UX during the loading and error states.
+
+* Layouts: The shift in how layouts are handled, providing more flexibility and better component isolation.
+
+* SEO Best Practices: An overview of SEO best practices with Next.js 13, focusing on how the framework supports better SEO out of the box, how to generate dynamically sitemaps, metadata, and an overview of open graph images.
+
+* API Route Handlers: A detailed examination of how API Route Handlers have changed, emphasizing the simplification of backend to frontend communication.
+
+* Deploy to Vercel: A step-by-step guide on how to deploy a Next.js 13 application on Vercel, and the benefits that Vercel offers.
+
+We also compared how these topics were handled in previous versions of Next.js, to understand the progression and the advantages of the newer version.
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
